@@ -1,0 +1,11 @@
+# IntelliJ Files
+.idea/
+
+# Gradle Files
+.gradle/
+
+# macOS Files
+.DS_Store
+
+# build Files
+build/
